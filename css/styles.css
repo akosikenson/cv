@@ -1,0 +1,86 @@
+body{
+  background-color: #F3F4ED;
+  margin: 0;
+  text-align: center;
+  font-family: 'Indie Flower', cursive;
+  font-size: 1.5rem;
+}
+
+hr{
+  border-style: dotted none none;
+  border-width: 5px;
+  border-color: #C06014;
+  width: 5%;
+}
+
+.top-container{
+  margin: 0;
+  display: block;
+  position: fixed;
+  height: 95px;
+  width: 100%;
+  background-color: #536162;
+}
+
+a{
+  color: #FCF8EC;
+  text-decoration: none;
+}
+
+h2{
+  color: #FCF8EC;
+}
+
+.menu{
+  display: inline-block;
+  margin: 35px 175px 0;
+  font-size: 1.5rem;
+}
+
+.profilePic{
+  top: 85px;
+  right: 0;
+  position: relative;
+  height: auto;
+  width: 1000px;
+  z-index: -1;
+}
+
+.education{
+  width: 10%;
+}
+
+.skills{
+  width: 12%;
+}
+
+.hobbies{
+  width: 12%;
+}
+
+.experience{
+  width: 10%;
+}
+
+.bottom-container{
+  margin: 0;
+  height: auto;
+  width: 100%;
+  background-color: #79A3B1;
+}
+
+h1{
+  color: #424642;
+  font-family: 'Gochi Hand', cursive;
+  font-size: 2.5rem;
+}
+
+h3{
+  color: #424642;
+  font-family: 'Gochi Hand', cursive;
+  font-size: 2rem;
+}
+
+.icons{
+  margin: 20px 100px 0;
+}
